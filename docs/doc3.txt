@@ -1,0 +1,1 @@
+A limpeza de dados é uma fase crítica no pipeline de ciência de dados. Dados inconsistentes, incompletos ou duplicados podem comprometer a qualidade dos resultados obtidos pelos modelos.

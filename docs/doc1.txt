@@ -1,0 +1,1 @@
+A análise de dados é uma etapa fundamental em projetos de ciência de dados. Envolve a exploração de conjuntos de dados, identificação de padrões e geração de insights que auxiliam na tomada de decisão.

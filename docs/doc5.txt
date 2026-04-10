@@ -1,0 +1,1 @@
+Big Data refere-se ao processamento de grandes volumes de dados que não podem ser tratados por métodos tradicionais. Tecnologias como Hadoop e Spark são utilizadas para lidar com esses cenários.

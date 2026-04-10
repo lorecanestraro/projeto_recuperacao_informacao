@@ -1,0 +1,1 @@
+O aprendizado de máquina permite que modelos computacionais aprendam automaticamente a partir de dados históricos. Técnicas como regressão, classificação e clustering são amplamente utilizadas.
