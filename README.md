@@ -5,6 +5,7 @@ Ele processa um diretório de arquivos de texto, constrói matrizes de frequênc
 e permite realizar consultas textuais interativas ordenadas por Similaridade de Cosseno.
 
 🚀 Funcionalidades
+
 Pipeline de Pré-processamento: Limpeza de strings (conversão para minúsculas, remoção de pontuação) e filtragem de stopwords customizadas em português.
 Vetorização Dupla:
 Geração de Matriz Termo-Documento bruta (Frequência de Termos - TF).
